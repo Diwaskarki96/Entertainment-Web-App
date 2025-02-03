@@ -1,16 +1,11 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
+import { Inter } from "next/font/google";
+import Nav from "@/components/Nav";
+import Search from "@/components/Search";
+import { Box } from "@mui/material";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
-});
-
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
-});
+const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Entertainment Web App",
@@ -24,8 +19,12 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${geistSans.variable} ${geistMono.variable}`}>
-        {children}
+      <body className={inter.className}>
+        <Box display={"flex"} margin={"1rem"} justifyContent={"space-between"}>
+          <Nav />
+          <Search />
+          {children}
+        </Box>
       </body>
     </html>
   );

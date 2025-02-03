@@ -1,0 +1,344 @@
+[
+  {
+    "title": "Beyond Earth",
+    "thumbnail": {
+      "trending": {
+        "small": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      },
+      "regular": {
+        "small": "/assets/movie.webp",
+        "medium": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      }
+    },
+    "year": 2019,
+    "category": "Movie",
+    "rating": "PG",
+    "isBookmarked": false,
+    "isTrending": true
+  },
+  {
+    "title": "Galaxy Quest",
+    "thumbnail": {
+      "trending": {
+        "small": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      },
+      "regular": {
+        "small": "/assets/movie.webp",
+        "medium": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      }
+    },
+    "year": 2020,
+    "category": "Movie",
+    "rating": "PG-13",
+    "isBookmarked": true,
+    "isTrending": true
+  },
+  {
+    "title": "The Last Horizon",
+    "thumbnail": {
+      "trending": {
+        "small": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      },
+      "regular": {
+        "small": "/assets/movie.webp",
+        "medium": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      }
+    },
+    "year": 2021,
+    "category": "Movie",
+    "rating": "R",
+    "isBookmarked": false,
+    "isTrending": false
+  },
+  {
+    "title": "Cosmic Voyage",
+    "thumbnail": {
+      "trending": {
+        "small": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      },
+      "regular": {
+        "small": "/assets/movie.webp",
+        "medium": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      }
+    },
+    "year": 2022,
+    "category": "Movie",
+    "rating": "PG-13",
+    "isBookmarked": false,
+    "isTrending": true
+  },
+  {
+    "title": "Future World",
+    "thumbnail": {
+      "trending": {
+        "small": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      },
+      "regular": {
+        "small": "/assets/movie.webp",
+        "medium": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      }
+    },
+    "year": 2023,
+    "category": "Movie",
+    "rating": "PG",
+    "isBookmarked": true,
+    "isTrending": false
+  },
+  {
+    "title": "Deep Space",
+    "thumbnail": {
+      "trending": {
+        "small": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      },
+      "regular": {
+        "small": "/assets/movie.webp",
+        "medium": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      }
+    },
+    "year": 2020,
+    "category": "Movie",
+    "rating": "PG",
+    "isBookmarked": false,
+    "isTrending": false
+  },
+  {
+    "title": "Neon City",
+    "thumbnail": {
+      "trending": {
+        "small": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      },
+      "regular": {
+        "small": "/assets/movie.webp",
+        "medium": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      }
+    },
+    "year": 2018,
+    "category": "Movie",
+    "rating": "PG-13",
+    "isBookmarked": true,
+    "isTrending": false
+  },
+  {
+    "title": "Lost Universe",
+    "thumbnail": {
+      "trending": {
+        "small": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      },
+      "regular": {
+        "small": "/assets/movie.webp",
+        "medium": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      }
+    },
+    "year": 2019,
+    "category": "Movie",
+    "rating": "R",
+    "isBookmarked": false,
+    "isTrending": true
+  },
+  {
+    "title": "Titan's Legacy",
+    "thumbnail": {
+      "trending": {
+        "small": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      },
+      "regular": {
+        "small": "/assets/movie.webp",
+        "medium": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      }
+    },
+    "year": 2022,
+    "category": "Movie",
+    "rating": "PG-13",
+    "isBookmarked": true,
+    "isTrending": true
+  },
+  {
+    "title": "Solar Exodus",
+    "thumbnail": {
+      "trending": {
+        "small": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      },
+      "regular": {
+        "small": "/assets/movie.webp",
+        "medium": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      }
+    },
+    "year": 2021,
+    "category": "Movie",
+    "rating": "R",
+    "isBookmarked": false,
+    "isTrending": false
+  },
+  {
+    "title": "Edge of the Cosmos",
+    "thumbnail": {
+      "trending": {
+        "small": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      },
+      "regular": {
+        "small": "/assets/movie.webp",
+        "medium": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      }
+    },
+    "year": 2023,
+    "category": "Movie",
+    "rating": "PG",
+    "isBookmarked": true,
+    "isTrending": true
+  },
+  {
+    "title": "Celestial Chronicles",
+    "thumbnail": {
+      "trending": {
+        "small": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      },
+      "regular": {
+        "small": "/assets/movie.webp",
+        "medium": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      }
+    },
+    "year": 2020,
+    "category": "Movie",
+    "rating": "PG-13",
+    "isBookmarked": false,
+    "isTrending": false
+  },
+  {
+    "title": "Black Hole Escape",
+    "thumbnail": {
+      "trending": {
+        "small": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      },
+      "regular": {
+        "small": "/assets/movie.webp",
+        "medium": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      }
+    },
+    "year": 2021,
+    "category": "Movie",
+    "rating": "R",
+    "isBookmarked": true,
+    "isTrending": true
+  },
+  {
+    "title": "Orbital Strike",
+    "thumbnail": {
+      "trending": {
+        "small": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      },
+      "regular": {
+        "small": "/assets/movie.webp",
+        "medium": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      }
+    },
+    "year": 2019,
+    "category": "Movie",
+    "rating": "PG",
+    "isBookmarked": false,
+    "isTrending": false
+  },
+  {
+    "title": "Exo Colony",
+    "thumbnail": {
+      "trending": {
+        "small": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      },
+      "regular": {
+        "small": "/assets/movie.webp",
+        "medium": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      }
+    },
+    "year": 2022,
+    "category": "Movie",
+    "rating": "PG-13",
+    "isBookmarked": true,
+    "isTrending": true
+  },
+  {
+    "title": "AI Rebellion",
+    "thumbnail": {
+      "trending": {
+        "small": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      },
+      "regular": {
+        "small": "/assets/movie.webp",
+        "medium": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      }
+    },
+    "year": 2023,
+    "category": "Movie",
+    "rating": "R",
+    "isBookmarked": false,
+    "isTrending": true
+  },
+  {
+    "title": "Time Warp",
+    "thumbnail": {
+      "trending": {
+        "small": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      },
+      "regular": {
+        "small": "/assets/movie.webp",
+        "medium": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      }
+    },
+    "year": 2018,
+    "category": "Movie",
+    "rating": "PG",
+    "isBookmarked": true,
+    "isTrending": false
+  },
+  {
+    "title": "Dystopia Rising",
+    "thumbnail": {
+      "trending": {
+        "small": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      },
+      "regular": {
+        "small": "/assets/movie.webp",
+        "medium": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      }
+    },
+    "year": 2020,
+    "category": "Movie",
+    "rating": "PG-13",
+    "isBookmarked": false,
+    "isTrending": false
+  }
+]

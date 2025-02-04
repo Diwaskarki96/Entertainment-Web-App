@@ -89,7 +89,7 @@
       }
     },
     "year": 2023,
-    "category": "Movie",
+    "category": "Tv Series",
     "rating": "PG",
     "isBookmarked": true,
     "isTrending": false
@@ -146,7 +146,7 @@
       }
     },
     "year": 2019,
-    "category": "Movie",
+    "category": "Tv Series",
     "rating": "R",
     "isBookmarked": false,
     "isTrending": true
@@ -165,7 +165,7 @@
       }
     },
     "year": 2022,
-    "category": "Movie",
+    "category": "Tv Series",
     "rating": "PG-13",
     "isBookmarked": true,
     "isTrending": true
@@ -184,7 +184,7 @@
       }
     },
     "year": 2021,
-    "category": "Movie",
+    "category": "Tv Series",
     "rating": "R",
     "isBookmarked": false,
     "isTrending": false
@@ -222,7 +222,7 @@
       }
     },
     "year": 2020,
-    "category": "Movie",
+    "category": "Tv Series",
     "rating": "PG-13",
     "isBookmarked": false,
     "isTrending": false
@@ -260,7 +260,7 @@
       }
     },
     "year": 2019,
-    "category": "Movie",
+    "category": "Tv Series",
     "rating": "PG",
     "isBookmarked": false,
     "isTrending": false
@@ -298,7 +298,7 @@
       }
     },
     "year": 2023,
-    "category": "Movie",
+    "category": "Tv Series",
     "rating": "R",
     "isBookmarked": false,
     "isTrending": true
@@ -336,9 +336,389 @@
       }
     },
     "year": 2020,
+    "category": "Tv Series",
+    "rating": "PG-13",
+    "isBookmarked": false,
+    "isTrending": false
+  },
+  {
+    "title": "Stellar Conquest",
+    "thumbnail": {
+      "trending": {
+        "small": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      },
+      "regular": {
+        "small": "/assets/movie.webp",
+        "medium": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      }
+    },
+    "year": 2021,
+    "category": "Tv Series",
+    "rating": "PG-13",
+    "isBookmarked": false,
+    "isTrending": true
+  },
+  {
+    "title": "Quantum Paradox",
+    "thumbnail": {
+      "trending": {
+        "small": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      },
+      "regular": {
+        "small": "/assets/movie.webp",
+        "medium": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      }
+    },
+    "year": 2022,
+    "category": "Movie",
+    "rating": "R",
+    "isBookmarked": true,
+    "isTrending": false
+  },
+  {
+    "title": "Eclipse of the Stars",
+    "thumbnail": {
+      "trending": {
+        "small": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      },
+      "regular": {
+        "small": "/assets/movie.webp",
+        "medium": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      }
+    },
+    "year": 2020,
+    "category": "Tv Series",
+    "rating": "PG",
+    "isBookmarked": false,
+    "isTrending": true
+  },
+  {
+    "title": "Nebula's Edge",
+    "thumbnail": {
+      "trending": {
+        "small": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      },
+      "regular": {
+        "small": "/assets/movie.webp",
+        "medium": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      }
+    },
+    "year": 2023,
+    "category": "Tv Series",
+    "rating": "PG-13",
+    "isBookmarked": true,
+    "isTrending": true
+  },
+  {
+    "title": "The Void Within",
+    "thumbnail": {
+      "trending": {
+        "small": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      },
+      "regular": {
+        "small": "/assets/movie.webp",
+        "medium": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      }
+    },
+    "year": 2019,
+    "category": "Movie",
+    "rating": "R",
+    "isBookmarked": false,
+    "isTrending": false
+  },
+  {
+    "title": "Astral Odyssey",
+    "thumbnail": {
+      "trending": {
+        "small": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      },
+      "regular": {
+        "small": "/assets/movie.webp",
+        "medium": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      }
+    },
+    "year": 2021,
+    "category": "Tv Series",
+    "rating": "PG",
+    "isBookmarked": true,
+    "isTrending": true
+  },
+  {
+    "title": "Chronicles of the Cosmos",
+    "thumbnail": {
+      "trending": {
+        "small": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      },
+      "regular": {
+        "small": "/assets/movie.webp",
+        "medium": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      }
+    },
+    "year": 2022,
     "category": "Movie",
     "rating": "PG-13",
     "isBookmarked": false,
     "isTrending": false
+  },
+  {
+    "title": "The Infinite Horizon",
+    "thumbnail": {
+      "trending": {
+        "small": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      },
+      "regular": {
+        "small": "/assets/movie.webp",
+        "medium": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      }
+    },
+    "year": 2020,
+    "category": "Tv Series",
+    "rating": "R",
+    "isBookmarked": true,
+    "isTrending": true
+  },
+  {
+    "title": "Starlight Revolution",
+    "thumbnail": {
+      "trending": {
+        "small": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      },
+      "regular": {
+        "small": "/assets/movie.webp",
+        "medium": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      }
+    },
+    "year": 2023,
+    "category": "Tv Series",
+    "rating": "PG",
+    "isBookmarked": false,
+    "isTrending": false
+  },
+  {
+    "title": "The Galactic Divide",
+    "thumbnail": {
+      "trending": {
+        "small": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      },
+      "regular": {
+        "small": "/assets/movie.webp",
+        "medium": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      }
+    },
+    "year": 2021,
+    "category": "Tv Series",
+    "rating": "PG-13",
+    "isBookmarked": true,
+    "isTrending": true
+  },
+  {
+    "title": "Echoes of Eternity",
+    "thumbnail": {
+      "trending": {
+        "small": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      },
+      "regular": {
+        "small": "/assets/movie.webp",
+        "medium": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      }
+    },
+    "year": 2022,
+    "category": "Movie",
+    "rating": "R",
+    "isBookmarked": false,
+    "isTrending": false
+  },
+  {
+    "title": "The Final Frontier",
+    "thumbnail": {
+      "trending": {
+        "small": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      },
+      "regular": {
+        "small": "/assets/movie.webp",
+        "medium": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      }
+    },
+    "year": 2020,
+    "category": "Tv Series",
+    "rating": "PG",
+    "isBookmarked": true,
+    "isTrending": true
+  },
+  {
+    "title": "Warpath to the Stars",
+    "thumbnail": {
+      "trending": {
+        "small": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      },
+      "regular": {
+        "small": "/assets/movie.webp",
+        "medium": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      }
+    },
+    "year": 2023,
+    "category": "Movie",
+    "rating": "PG-13",
+    "isBookmarked": false,
+    "isTrending": false
+  },
+  {
+    "title": "The Celestial War",
+    "thumbnail": {
+      "trending": {
+        "small": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      },
+      "regular": {
+        "small": "/assets/movie.webp",
+        "medium": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      }
+    },
+    "year": 2021,
+    "category": "Tv Series",
+    "rating": "R",
+    "isBookmarked": true,
+    "isTrending": true
+  },
+  {
+    "title": "Beyond the Nebula",
+    "thumbnail": {
+      "trending": {
+        "small": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      },
+      "regular": {
+        "small": "/assets/movie.webp",
+        "medium": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      }
+    },
+    "year": 2022,
+    "category": "Tv Series",
+    "rating": "PG",
+    "isBookmarked": false,
+    "isTrending": false
+  },
+  {
+    "title": "The Last Starfighter",
+    "thumbnail": {
+      "trending": {
+        "small": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      },
+      "regular": {
+        "small": "/assets/movie.webp",
+        "medium": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      }
+    },
+    "year": 2020,
+    "category": "Movie",
+    "rating": "PG-13",
+    "isBookmarked": true,
+    "isTrending": true
+  },
+  {
+    "title": "Galactic Empires",
+    "thumbnail": {
+      "trending": {
+        "small": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      },
+      "regular": {
+        "small": "/assets/movie.webp",
+        "medium": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      }
+    },
+    "year": 2023,
+    "category": "Tv Series",
+    "rating": "R",
+    "isBookmarked": false,
+    "isTrending": false
+  },
+  {
+    "title": "The Cosmic Veil",
+    "thumbnail": {
+      "trending": {
+        "small": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      },
+      "regular": {
+        "small": "/assets/movie.webp",
+        "medium": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      }
+    },
+    "year": 2021,
+    "category": "Tv Series",
+    "rating": "PG",
+    "isBookmarked": true,
+    "isTrending": true
+  },
+  {
+    "title": "The Starforge",
+    "thumbnail": {
+      "trending": {
+        "small": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      },
+      "regular": {
+        "small": "/assets/movie.webp",
+        "medium": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      }
+    },
+    "year": 2022,
+    "category": "Movie",
+    "rating": "PG-13",
+    "isBookmarked": false,
+    "isTrending": false
+  },
+  {
+    "title": "The Andromeda Strain",
+    "thumbnail": {
+      "trending": {
+        "small": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      },
+      "regular": {
+        "small": "/assets/movie.webp",
+        "medium": "/assets/movie.webp",
+        "large": "/assets/movie.webp"
+      }
+    },
+    "year": 2020,
+    "category": "Tv Series",
+    "rating": "R",
+    "isBookmarked": true,
+    "isTrending": true
   }
 ]

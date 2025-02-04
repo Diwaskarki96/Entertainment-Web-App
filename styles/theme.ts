@@ -7,8 +7,10 @@ const theme = createTheme({
   },
   typography: {
     h1: {
-      fontSize: "4rem",
-      fontWeight: 800,
+      color: "#FFFFFF",
+      fontSize: "2rem",
+      fontWeight: 200,
+      marginLeft: "1rem",
     },
   },
 });

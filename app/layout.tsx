@@ -3,8 +3,8 @@ import "./globals.css";
 import { Inter } from "next/font/google";
 import Nav from "@/components/Nav";
 import Search from "@/components/Search";
-import { Box } from "@mui/material";
-
+import { Box, ThemeProvider } from "@mui/material";
+import theme from "@/styles/theme";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
@@ -20,11 +20,19 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
-        <Box display={"flex"} margin={"1rem"} justifyContent={"space-between"}>
-          <Nav />
-          <Search />
-          {children}
-        </Box>
+        <ThemeProvider theme={theme}>
+          <Box
+            display={"flex"}
+            margin={"1rem"}
+            justifyContent={"space-between"}
+          >
+            <Nav />
+            <Box>
+              <Search />
+              {children}
+            </Box>
+          </Box>
+        </ThemeProvider>
       </body>
     </html>
   );
